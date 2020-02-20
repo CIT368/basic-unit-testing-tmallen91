@@ -2,8 +2,7 @@
  * The Telephone class provides static methods
  * for formatting and unformatting US telephone
  * numbers.
- */
- 
+ */ 
 
  public class Telephone
 {
@@ -105,11 +104,4 @@
       // Return the formatted string.
       return strb.toString();
    }    
-}
-
-class TelephoneTest{
-   public void ChallengeX(){
-
-   }
-
 }
