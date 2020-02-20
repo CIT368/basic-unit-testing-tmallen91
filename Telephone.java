@@ -4,7 +4,8 @@
  * numbers.
  */
  
-public class Telephone
+
+ public class Telephone
 {
    // These constant fields hold the valid lengths of
    // strings that are formatted and unformatted.
@@ -103,5 +104,12 @@ public class Telephone
       
       // Return the formatted string.
       return strb.toString();
+   }    
+}
+
+class TelephoneTest{
+   public void ChallengeX(){
+
    }
+
 }
