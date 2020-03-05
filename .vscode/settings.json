@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\allent\\OneDrive - West Pharmaceutical Services, Inc\\Personal\\PCT\\JARs\\junit-platform-console-standalone-1.6.0.jar",
+        "c:\\Users\\allent\\Downloads\\sqljdbc_8.2.0.0_enu\\sqljdbc_8.2\\enu\\mssql-jdbc-8.2.0.jre13.jar"
+    ],
+    "java.dependency.packagePresentation": "flat"
+}
